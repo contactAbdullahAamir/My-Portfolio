@@ -117,6 +117,7 @@ a:hover {
   padding: 10px;
   text-align: center;
   font-size: 1.5rem;
+  background-color: var(--quaternary-color);
   color: var(--primary-color);
   text-decoration: none;
   transition: all 0.3s ease-in-out;
